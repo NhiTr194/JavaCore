@@ -3,4 +3,16 @@
 3. Git add: add file changed (local)
 4. Git commit -m "message": 
 5. Git push origin: push file into Github
-Nhi depgai
+
+How to check branch that this's in?
+=> Git branch
+
+How to create new branch? 
+=> git branch "ten branch moi"
+ex: git branch "sub_branch"
+
+check location:git branch
+result: main and sub_branch
+
+How to switch to other branch
+=> git checkout sub_branch
