@@ -3,4 +3,31 @@
 3. Git add: add file changed (local)
 4. Git commit -m "message": 
 5. Git push origin: push file into Github
-Nhi depgai
+6. Git branch: check current branch
+7. Git branch "branch_name" : create new branch
+8. Git checkout "branch_name": switch to branch
+9. Git branch -m "newbranch_name": update name branch
+10.Git branch -delete "branch_name: delete branch: just del branch local (condition: in the different branch with the branch that wanna delete)
+11. Git push origin -d "branch_name": del branch in Github
+12. 
+
+
+How to check branch that this's in?
+=> Git branch
+
+How to create new branch? 
+=> git branch "ten branch moi"
+ex: git branch "sub_branch"
+
+check location:git branch
+result: main and sub_branch
+
+How to switch to other branch
+=> git checkout sub_branch
+
+Ex: main co update 1, update 2
+	sub_brain co update 1, update 2 va them update 3, update 4
+	khi checkout den main branch thi van chi hien thi update 1 va update 2
+git 
+
+	
